@@ -1,3 +1,5 @@
+**Disclaimer:** this is **not** the official CLIMBER-X repository. You can find the official repository [here](https://github.com/cxesmc/climber-x).
+
 # CLIMBER-X Earth System Model
 
 CLIMBER-X is a comprehensive fast Earth System Model, designed to simulate the evolution of the Earth system on time scales ranging from decades to glacial-interglacial cycles. It includes the following components:
